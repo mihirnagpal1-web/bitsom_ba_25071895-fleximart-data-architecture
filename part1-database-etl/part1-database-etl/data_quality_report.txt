@@ -1,0 +1,11 @@
+Customers records read: 26
+Products records read: 20
+Sales records read: 41
+Customer duplicates removed: 1
+Product duplicates removed: 0
+Sales duplicates removed: 1
+Customers loaded: 20
+Products loaded: 20
+Orders loaded: 27
+Order items loaded: 27
+ETL Pipeline completed successfully
